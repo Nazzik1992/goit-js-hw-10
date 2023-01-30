@@ -4,6 +4,7 @@ import Notiflix from 'notiflix';
 import debounce from 'lodash.debounce';
 import fetchCountries  from './fetchCountries.js'
 
+
 const DEBOUNCE_DELAY = 300;
 const inputEl = document.getElementById('search-box');
 const listEl = document.querySelector('.country-list')
