@@ -18,3 +18,23 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+li {
+list-style: none;
+}
+.list{
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.img_list {
+width: 60px;
+height: 30px;
+}
+ul {
+  padding-left: 0px;
+}
+
+.img {
+  width: 200px;
+height: 100px;
+}
