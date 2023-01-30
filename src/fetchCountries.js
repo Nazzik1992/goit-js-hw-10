@@ -8,5 +8,4 @@ const url = "https://restcountries.com/v3.1/name";
   .then(res => {
     return res.json();})
     }
-
-    export default fetchCountries;
+export default fetchCountries;
